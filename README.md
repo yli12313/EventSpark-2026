@@ -8,7 +8,3 @@ This is an ongoing iOS app that I'm building. **EventSpark** is a note-taking ap
     <td><img src="static/P3.PNG" width="250"/></td>
   </tr>
 </table>
-
-Tasks:
-* ~~Download the app to my iPhone and try it.~~
-* TBD
